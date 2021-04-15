@@ -1,3 +1,5 @@
+# NOTE: SEE SPRINT1 USE CASE
+
 # Augur
 
 branch | status
